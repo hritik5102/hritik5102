@@ -7,7 +7,7 @@
 
 👨‍🎓 B.Tech in information technology from the **[K.J Somaiya college of engineering](https://kjsce.somaiya.edu/en)** 
 
-### **About me :**
+### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
 - :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
@@ -16,7 +16,7 @@
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&hide_border=true)
 
-**Languages and Tools:**  
+### Languages and Tools :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
