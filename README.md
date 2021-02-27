@@ -9,10 +9,10 @@
 ### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation
-- :heart: Jupyter notebook mainter at [TheAlgorithms](https://github.com/thealgorithms) and Computer vision / ML mainter at [Robofied](https://github.com/Robofied) 
-- :writing_hand: Writing blogs on **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything : **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
-- 🌐 Social handles : [https://linktr.ee/hritikdj](https://linktr.ee/hritikdj)
+- :heart: Jupyter notebook mainter at **_[TheAlgorithms](https://github.com/thealgorithms)_** and Computer vision / ML mainter at **_[Robofied](https://github.com/Robofied)_** 
+- :writing_hand: Writing blogs on **_[Medium](https://medium.com/@hritik.jaiswal)_** and solving bugs in **_[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)_**
+- :e-mail: Ask me about anything : **_[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)_**
+- 🌐 Social handles : **_[https://linktr.ee/hritikdj](https://linktr.ee/hritikdj)_**
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&theme=tokyonight" />
 
@@ -37,8 +37,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code><br/>
 <br/>
-
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ### Reach out to me 👓
 
