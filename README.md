@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Hritik Jaiswal]() 👨‍💻
+### Hey 👋, I'm [Hritik Jaiswal](https://linktr.ee/hritikdj) 👨‍💻
 
 <p align="center"><img src="https://i.ibb.co/S3FwFX7/Developer.jpg" alt="Developer" border="0"></p>
 
@@ -9,9 +9,10 @@
 ### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
+- :heart: Jupyter notebook mainter at [TheAlgorithms](https://github.com/thealgorithms) and Computer vision / ML mainter at [Robofied](https://github.com/Robofied) 
 - :writing_hand: Writing blogs on **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+- :e-mail: Ask me about anything : **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+- 🌐 Social handles : [https://linktr.ee/hritikdj](https://linktr.ee/hritikdj)
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&theme=tokyonight" />
 
