@@ -8,7 +8,7 @@
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation
+- :dart: Full stack development | Machine learning | Deep learning | Computer vision | MATLAB Simulation
 - :heart: Jupyter notebook mainter at **_[TheAlgorithms](https://github.com/thealgorithms)_** and Computer vision / ML mainter at **_[Robofied](https://github.com/Robofied)_** 
 - :writing_hand: Writing blogs on **_[Medium](https://medium.com/@hritik.jaiswal)_** and solving bugs in **_[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)_**
 - :e-mail: Ask me about anything : **_[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)_**
