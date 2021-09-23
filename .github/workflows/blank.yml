@@ -36,7 +36,7 @@ jobs:
 
           # path of the generated svg file
           # If left empty, the svg file will not be generated
-          svg_out_path: dist/github-snake.svg
+          svg_out_path: images/github-user-contribution.svg
   
 
       # Runs a single command using the runners shell
