@@ -45,9 +45,7 @@
 |                                                                                                                                                                                                                                                             **[Hritik Jaiswal](https://linktr.ee/hritikdj)**                                                                                                                                                                                                                                                              |
 | <a href="https://twitter.com/imhritik_dj"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/hritik5102"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/hritik.jaiswal.56808"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/hritik-jaiswal-22a136166/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
-<hr/>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/hritik5102/hritik5102/master/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg)
 
 <!--
 **hritik5102/hritik5102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
